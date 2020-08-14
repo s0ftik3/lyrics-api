@@ -10,7 +10,9 @@
   },
   "keywords": [
     "lyrics",
-    "lyrics-api"
+    "lyrics-api",
+    "music api",
+    "song api"
   ],
   "publishConfig": { 
     "registry": "https://npm.pkg.github.com/" 
