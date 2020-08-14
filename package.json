@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "A Lyrics API. Provides you lyrics of a song.",
   "main": "index.js",
+  "homepage": "https://github.com/s0ftik3/lyrics-api#readme",
+  "repository": "https://github.com/s0ftik3/lyrics-api",
   "scripts": {
     "start": "node index.js"
   },
@@ -10,6 +12,9 @@
     "lyrics",
     "lyrics-api"
   ],
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/" 
+  },
   "author": "softik",
   "license": "MIT",
   "dependencies": {
