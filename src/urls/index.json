@@ -1,0 +1,4 @@
+{
+    "urlSearch": "http://api.deezer.com/search?limit=5&q=",
+    "urlGet": "https://api.lyrics.ovh/v1/"
+}
