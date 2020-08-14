@@ -3,12 +3,12 @@ A simple JavaScript lyrics API.
 
 ## Installing
 ```
-$ npm install lyrics-api
+$ npm install song-lyrics-api
 ```
 
 ## Usage
 ```javascript
-const Lyrics = require('lyrics-api');
+const Lyrics = require('song-lyrics-api');
 const lyrics = new Lyrics();
 ```
 
