@@ -1,5 +1,5 @@
 {
-  "name": "lyrics-api",
+  "name": "song-lyrics-api",
   "version": "1.1.0",
   "description": "A Lyrics API. Provides you lyrics of a song.",
   "main": "index.js",
